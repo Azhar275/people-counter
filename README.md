@@ -1,4 +1,4 @@
-###Before running the app, make sure to install this first
+### Before running the app, make sure to install this first
 
 1. opencv-python
 2. ultralytics
